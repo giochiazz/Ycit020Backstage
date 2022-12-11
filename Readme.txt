@@ -1,4 +1,4 @@
-https://source.cloud.google.com/ycit019-349515/x008930-notepad/+/master:backstage-project/
+https://source.cloud.google.com/<<project-id>>/x008930-notepad/+/master:backstage-project/
 
 export PROJECT_ID=backstage-project-367900
 gcloud config set project $PROJECT_ID
